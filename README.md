@@ -5,7 +5,7 @@ GIT Playbook is a documentation framework that allows you to create Documentatio
 
 ![image](https://user-images.githubusercontent.com/35994116/45641683-75532e80-bab6-11e8-81a6-f31ad27f1bf4.png)
 
-* <a href="https://thomasreinecke.github.io/git-playbook/#/playbook" target="_blank">Demo environment (on GH pages)</a>
+* <a href="https://thomasreinecke.github.io/KG-Devbook/#/playbook" target="_blank">Demo environment (on GH pages)</a>
 * <a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet" target="_blank">Markdown Cheatsheet</a>
 
 ## How to use it
